@@ -1,4 +1,4 @@
-console.log('This is testing console.');
+console.log('This is testing console..');
 
 // //Method Borrowing--------------------------------------------------------------
 // //call, apply and bind methods of Object
@@ -387,4 +387,3 @@ console.log('This is testing console.');
 //   console.log(j);
 // }
 // console.log(`This is ${j}`);
-
