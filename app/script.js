@@ -387,3 +387,8 @@ console.log('This is testing console..');
 //   console.log(j);
 // }
 // console.log(`This is ${j}`);
+
+//Objects-----------------------------------------------------------------------
+
+var obj1 = {a:'1', b:'2'};
+var obj2 = new Object();
